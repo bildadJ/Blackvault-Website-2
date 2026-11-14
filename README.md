@@ -32,3 +32,4 @@ Domain and email addresses are set to blackvault.co.ke (see `assets/main.js`). C
 
 ## Domain and email
 Domain: blackvault.co.ke. The addresses enquiries@, opportunities@, partnerships@, corporate@ and agri@blackvault.co.ke are set in `assets/main.js`. Create them (or forward them) before launch, for example with Cloudflare Email Routing.
+Live at blackvault.co.ke.
