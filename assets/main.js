@@ -1,5 +1,5 @@
 /* CONFIGURE: replace these with your real addresses before launch */
-var CONFIG={general:"enquiries@example.com",business:"opportunities@example.com",partners:"partnerships@example.com",corporate:"corporate@example.com",agri:"agri@example.com"};
+var CONFIG={general:"enquiries@blackvault.co.ke",business:"enquiries@blackvault.co.ke",partners:"enquiries@blackvault.co.ke",corporate:"enquiries@blackvault.co.ke",agri:"agri@blackvault.co.ke"};
 /* OPTIONAL: paste a Formspree URL (https://formspree.io/f/xxxx) to send the form directly instead of opening the visitor's email app */
 var FORM_ENDPOINT="";
 var $=function(s){return Array.prototype.slice.call(document.querySelectorAll(s))};
